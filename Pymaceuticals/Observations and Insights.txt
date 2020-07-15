@@ -1,0 +1,19 @@
+Observations and Insights
+
+Matplotlib-Challenge
+
+One clear observation that can be made based upon the Mouse Weight vs Avg Tumor Volume is that 
+    Average Tumor Volume seems to be directly dependent on the Mouse Weight meaning that the more that the mouse weighs, the bigger the tumor.
+    An anomoly in this is for mice weighing around 17g had Tumor Volumes ranging between 34-40 (mm3). The same can be said for mice weighing 19g, 21g, and 23g with the most extreme tendencies occuring on 17g mice
+    each with their own respective tumor volumes. This can be compared to to the line plot which is described further below.
+
+    In spite of this fact, the characteristic still holds true. 
+
+A second observation
+    According to the box plot of Final Tumor Volume vs Drug Regimen
+    Capomulin and Ceftamin seem to have performed the best due to their first quartile being well below its median
+    I interpreted this as Final Tumor Volumes being significantely lower than their starting
+
+A third observation
+    According to the line plot for Timepoint vs Tumor Volume for Mouse x401 on Capomulin
+    At every timepoint +10, there seemed to be a plateau in the tumor volume where the Tumor began to slightly increase before finally decreasing again
